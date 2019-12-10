@@ -1,16 +1,16 @@
-/* body {
+ body {
   font-family: "Solway", serif;
   font-size: 20px;
-} */
+} 
 /* the landing page */
-#image {
+/* #image {
   text-align: center;
   background-image: url("assets/backgrounds/h_img.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 250px;
   color: white;
-}
+} */
 /* about us */
 .about {
   text-align: center;
