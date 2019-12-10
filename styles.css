@@ -48,28 +48,28 @@ h2 {
   height: 250px;
   width: 250px;
 }
-.work1 {
+.workA {
   background: url("./assets/portfolio/work1.jpg");
 }
-.work2 {
+.workB {
     background: url("./assets/portfolio/work2.jpg");
   }
-  .work3 {
+  .workC {
     background: url("./assets/portfolio/work3.jpg");
   }
-  .work4 {
+  .workD {
     background: url("./assets/portfolio/work4.jpg");
   }
-  .work5 {
+  .workE {
     background: url("./assets/portfolio/work5.jpg");
   }
-  .work6 {
+  .workF {
     background: url("./assets/portfolio/work6.jpg");
   }
-  .work7 {
+  .workG {
     background: url("./assets/portfolio/work7.jpg");
   }
-  .work8 {
+  .workH {
     background: url("./assets/portfolio/work8.jpg");
   }
 .project {
