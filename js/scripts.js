@@ -1,22 +1,22 @@
 // 
-$(document).ready(function(){
-    $("#description").hide();
-    $("#about").hide();
-    $("#development-image").hide();
+// $(document).ready(function(){
+//     $("#description").hide();
+//     $("#about").hide();
+//     $("#development-image").hide();
 
     
-$("#design,#description").click(function(){
-    $("#description").toggle();
-    $("#design").toggle();
-});
-$("#development,#about").click(function(){
-    $("#about").toggle();
-    $("#development").toggle();
-});
-$("#product,#services").click(function(){
-    $("#services").toggle();
-    $("#product").toggle();
-});
+// $("#design,#description").click(function(){
+//     $("#description").toggle();
+//     $("#design").toggle();
+// });
+// $("#development,#about").click(function(){
+//     $("#about").toggle();
+//     $("#development").toggle();
+// });
+// $("#product,#services").click(function(){
+//     $("#services").toggle();
+//     $("#product").toggle();
+// });
 
 $(".project").hover(function(){
     $(this).animate({opacity: '1'});
