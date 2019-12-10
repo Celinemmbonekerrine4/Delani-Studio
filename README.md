@@ -18,4 +18,11 @@ also includes a form that allows users to enter their names and emails.
 * jQuery.
 * Bootstrap.
 
-# 
+# Known Bugs
+Theres no bugs in this website but if theres any you can clone by clicking the issues and removing the bugs heres the issues url <a href="https://github.com/Celinemmbonekerrine4/Delani-Studio/issues">click here.<a>
+
+# The link to the website access
+You can access this website by cloning or forking it from github
+https://github.com/Celinemmbonekerrine4/Delani-Studio
+
+#
