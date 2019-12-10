@@ -1,8 +1,8 @@
 // 
-// $(document).ready(function(){
-//     $("#description").hide();
-//     $("#about").hide();
-//     $("#development-image").hide();
+ $(document).ready(function(){
+     $("#description").hide();
+   $("#about").hide();
+    $("#development-image").hide();
 
     
 // $("#design,#description").click(function(){
