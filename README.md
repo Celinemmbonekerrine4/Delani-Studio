@@ -25,4 +25,5 @@ Theres no bugs in this website but if theres any you can clone by clicking the i
 You can access this website by cloning or forking it from github
 https://github.com/Celinemmbonekerrine4/Delani-Studio
 
-#
+# License
+Licensed under the  [MIT license](LICENSE).
