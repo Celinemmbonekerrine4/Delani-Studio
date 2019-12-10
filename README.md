@@ -11,4 +11,11 @@ a portfolio of some of our projects, and a detailed description of what we do
 from inception to completion of the project. Further to this, the application is
 built to incoporate bootsrap styling, styles.css and jQuery. The application
 also includes a form that allows users to enter their names and emails.
-![alttext]("/home/moringaschool/Desktop/Delani Studio/IP3/Screenshot from 2019-12-1010-55-38.png")
+
+# Languages Used
+* Html.
+* Style.css.
+* jQuery.
+* Bootstrap.
+
+# 
